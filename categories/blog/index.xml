@@ -6,14 +6,14 @@
     <description>Recent content in Blog on Diego Avanzini</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Nov 2025 11:25:26 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 11:49:04 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This is an experiment</title>
-      <link>http://localhost:1313/posts/this_is_an_experiment/</link>
-      <pubDate>Fri, 14 Nov 2025 11:25:26 +0100</pubDate>
-      <guid>http://localhost:1313/posts/this_is_an_experiment/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+      <title>Agents</title>
+      <link>http://localhost:1313/posts/agents/</link>
+      <pubDate>Fri, 14 Nov 2025 11:49:04 +0100</pubDate>
+      <guid>http://localhost:1313/posts/agents/</guid>
+      <description>&lt;p&gt;“An agent is anything that can perceive its environment and act upon that environment&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

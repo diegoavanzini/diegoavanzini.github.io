@@ -22,40 +22,5 @@
       <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/tags/blog/</link>
-      <pubDate>Fri, 14 Nov 2025 11:25:26 +0100</pubDate>
-      <guid>http://localhost:1313/tags/blog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Experiment</title>
-      <link>http://localhost:1313/tags/experiment/</link>
-      <pubDate>Fri, 14 Nov 2025 11:25:26 +0100</pubDate>
-      <guid>http://localhost:1313/tags/experiment/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>First</title>
-      <link>http://localhost:1313/tags/first/</link>
-      <pubDate>Fri, 14 Nov 2025 11:25:26 +0100</pubDate>
-      <guid>http://localhost:1313/tags/first/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag1</title>
-      <link>http://localhost:1313/tags/tag1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tag1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag2</title>
-      <link>http://localhost:1313/tags/tag2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tag2/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

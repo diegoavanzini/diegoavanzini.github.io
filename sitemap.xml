@@ -26,28 +26,7 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-11-14T11:49:04+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2025-11-14T11:25:26+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/experiment/</loc>
-    <lastmod>2025-11-14T11:25:26+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/first/</loc>
-    <lastmod>2025-11-14T11:25:26+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/this_is_an_experiment/</loc>
-    <lastmod>2025-11-14T11:25:26+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pages/about/</loc>
-    <lastmod>2025-11-14T11:08:05+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/pages/</loc>
     <lastmod>2025-11-14T11:08:05+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/category1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/tag1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/tag2/</loc>
   </url>
 </urlset>
