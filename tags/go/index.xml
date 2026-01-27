@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Diego Avanzini</title>
-    <link>https://diegoavanzini.github.io/categories/blog/</link>
-    <description>Recent content in Blog on Diego Avanzini</description>
+    <title>Go on Diego Avanzini</title>
+    <link>https://diegoavanzini.github.io/tags/go/</link>
+    <description>Recent content in Go on Diego Avanzini</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Jan 2026 07:58:43 +0100</lastBuildDate>
-    <atom:link href="https://diegoavanzini.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://diegoavanzini.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Custom errors in Go</title>
       <link>https://diegoavanzini.github.io/posts/custom_errors/</link>
       <pubDate>Tue, 27 Jan 2026 07:58:43 +0100</pubDate>
       <guid>https://diegoavanzini.github.io/posts/custom_errors/</guid>
       <description>&lt;p&gt;In any programming language, it&amp;rsquo;s sometimes necessary to handle a custom error type and handle it in a custom way.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Agents</title>
-      <link>https://diegoavanzini.github.io/posts/agents/</link>
-      <pubDate>Fri, 14 Nov 2025 11:49:04 +0100</pubDate>
-      <guid>https://diegoavanzini.github.io/posts/agents/</guid>
-      <description>&lt;p&gt;“An agent is anything that can perceive its environment and act upon that environment&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
