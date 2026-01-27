@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ai on Diego Avanzini</title>
-    <link>https://diegoavanzini.github.io/tags/ai/</link>
+    <link>http://localhost:1313/tags/ai/</link>
     <description>Recent content in Ai on Diego Avanzini</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Nov 2025 11:49:04 +0100</lastBuildDate>
-    <atom:link href="https://diegoavanzini.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agents</title>
-      <link>https://diegoavanzini.github.io/posts/agents/</link>
+      <link>http://localhost:1313/posts/agents/</link>
       <pubDate>Fri, 14 Nov 2025 11:49:04 +0100</pubDate>
-      <guid>https://diegoavanzini.github.io/posts/agents/</guid>
+      <guid>http://localhost:1313/posts/agents/</guid>
       <description>&lt;p&gt;“An agent is anything that can perceive its environment and act upon that environment&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
