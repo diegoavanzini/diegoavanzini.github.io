@@ -2,21 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Diego Avanzini</title>
-    <link>https://diegoavanzini.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Diego Avanzini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jan 2026 07:58:43 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 10:04:13 +0100</lastBuildDate>
     
-	<atom:link href="https://diegoavanzini.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>´´We will fix it later´´ syndrome</title>
+      <link>http://localhost:1313/posts/we_will_fix_it_later_syndrome_with_ai/</link>
+      <pubDate>Thu, 12 Feb 2026 10:04:13 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/we_will_fix_it_later_syndrome_with_ai/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m &amp;ldquo;studying&amp;rdquo; for the XPUG event in Bergamo (&lt;a href=&#34;https://www.linkedin.com/events/7418581192460914688/&#34;&gt;https://www.linkedin.com/events/7418581192460914688/&lt;/a&gt;) that&amp;rsquo;s taking place tomorrow.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m reading the first chapter of Uncle Bob&amp;rsquo;s book &amp;ldquo;Clean Architecture&amp;rdquo; and I&amp;rsquo;m thinking.&lt;/p&gt;
+&lt;p&gt;On the one hand, he says things that (at least to me) are obvious&amp;hellip; &amp;ldquo;the only way to go fast is to go well.&amp;rdquo; The only way to do something that won&amp;rsquo;t require too much maintenance and resource expenditure in the future is to do it well from the start&amp;hellip; obvious, but not so simple&amp;hellip; then he says something less obvious (at least in my experience): &amp;ldquo;Developers may think that the answer is to start over from scratch&amp;hellip; Their overconfidence will drive the redesign into the same mess as the original project.&amp;rdquo; Harsh, but fair.&lt;/p&gt;
+&lt;p&gt;And so I stop to think about how the words Robert Martin wrote eight years ago are even more relevant now, as AI is gaining traction and allowing us to create and implement an idea quickly.&lt;/p&gt;
+&lt;p&gt;If used poorly, AI can not only create technical debt, but even worse, it can also make us lose control of the accumulating technical debt.&lt;/p&gt;
+&lt;p&gt;The &amp;ldquo;we&amp;rsquo;ll fix it later&amp;rdquo; syndrome to move faster now will turn into an even more dangerous trap, and ending up saying &amp;ldquo;it&amp;rsquo;s better to redo it from scratch&amp;rdquo; will mean even more work for future developers, unless we decide to redo it again by feeding it to AI&amp;hellip; only to find ourselves, as Uncle Bob says, in the same situation.&lt;/p&gt;
+&lt;p&gt;Food for thought for Friday :-)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Custom errors in Go</title>
-      <link>https://diegoavanzini.github.io/posts/custom_errors/</link>
+      <link>http://localhost:1313/posts/custom_errors/</link>
       <pubDate>Tue, 27 Jan 2026 07:58:43 +0100</pubDate>
       
-      <guid>https://diegoavanzini.github.io/posts/custom_errors/</guid>
+      <guid>http://localhost:1313/posts/custom_errors/</guid>
       <description>&lt;p&gt;In any programming language, it&amp;rsquo;s sometimes necessary to handle a custom error type and handle it in a custom way.&lt;/p&gt;
 &lt;p&gt;In Go, you can create a specific type that implements the &amp;ldquo;error&amp;rdquo; interface, so that when that error type is received, it can be recognized using the type assertion system. Here&amp;rsquo;s a practical example:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;type CustomError struct {
@@ -40,10 +56,10 @@ if !isCustomError {
     
     <item>
       <title>Agents</title>
-      <link>https://diegoavanzini.github.io/posts/agents/</link>
+      <link>http://localhost:1313/posts/agents/</link>
       <pubDate>Fri, 14 Nov 2025 11:49:04 +0100</pubDate>
       
-      <guid>https://diegoavanzini.github.io/posts/agents/</guid>
+      <guid>http://localhost:1313/posts/agents/</guid>
       <description>&lt;p&gt;“An agent is anything that can perceive its environment and act upon that environment&amp;hellip;&lt;/p&gt;
 &lt;p&gt;“An agent is anything that can perceive its environment and act upon that environment. Artificial Intelligence: A Modern Approach (1995) defines an agent as anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators.” “The set of actions an AI agent can perform is augmented by the tools it has access to.” Agents
 Jan 7, 2025 • Chip Huyen&lt;/p&gt;</description>

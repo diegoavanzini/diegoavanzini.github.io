@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical_debt on Diego Avanzini</title>
+    <link>http://localhost:1313/tags/technical_debt/</link>
+    <description>Recent content in Technical_debt on Diego Avanzini</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Feb 2026 10:04:13 +0100</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/technical_debt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We will fix it later syndrome</title>
+      <link>http://localhost:1313/posts/we_will_fix_it_later_syndrome_with_ai/</link>
+      <pubDate>Thu, 12 Feb 2026 10:04:13 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/we_will_fix_it_later_syndrome_with_ai/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m &amp;ldquo;studying&amp;rdquo; for the XPUG event in Bergamo (&lt;a href=&#34;https://www.linkedin.com/events/7418581192460914688/&#34;&gt;https://www.linkedin.com/events/7418581192460914688/&lt;/a&gt;) that&amp;rsquo;s taking place tomorrow.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m reading the first chapter of Uncle Bob&amp;rsquo;s book &amp;ldquo;Clean Architecture&amp;rdquo; and I&amp;rsquo;m thinking about something.&lt;/p&gt;
+&lt;p&gt;On the one hand, he says things that (at least to me) are obvious&amp;hellip; &amp;ldquo;the only way to go fast is to go well.&amp;rdquo; The only way to do something that won&amp;rsquo;t require too much maintenance and resource expenditure in the future is to do it well from the start&amp;hellip; obvious, but not so obvious&amp;hellip; then he says something less obvious (at least in my experience): &amp;ldquo;Developers may think that the answer is to start over from scratch&amp;hellip; Their overconfidence will drive the redesign into the same mess as the original project.&amp;rdquo; Harsh, but fair.&lt;/p&gt;
+&lt;p&gt;And so I pause to think how the words Robert Martin wrote eight years ago are even more relevant now, as AI is gaining traction and allowing us to create and implement an idea quickly.&lt;/p&gt;
+&lt;p&gt;If used poorly, AI can not only create technical debt but can also make us lose control of the accumulating technical debt.&lt;/p&gt;
+&lt;p&gt;The &amp;ldquo;we&amp;rsquo;ll fix it later&amp;rdquo; syndrome to move faster now will turn into an even more dangerous trap, and ending up saying &amp;ldquo;it&amp;rsquo;s better to redo it from scratch&amp;rdquo; will mean even more work for future developers, unless we decide to redo it again by feeding it to AI&amp;hellip; only to find ourselves, as Uncle Bob says, in the same situation.&lt;/p&gt;
+&lt;p&gt;Food for thought for Friday :-)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
