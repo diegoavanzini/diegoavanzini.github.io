@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agent on Diego Avanzini</title>
-    <link>http://localhost:1313/tags/agent/</link>
+    <link>https://diegoavanzini.github.io/tags/agent/</link>
     <description>Recent content in Agent on Diego Avanzini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Nov 2025 11:49:04 +0100</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/agent/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diegoavanzini.github.io/tags/agent/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Agents</title>
-      <link>http://localhost:1313/posts/agents/</link>
+      <link>https://diegoavanzini.github.io/posts/agents/</link>
       <pubDate>Fri, 14 Nov 2025 11:49:04 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/agents/</guid>
+      <guid>https://diegoavanzini.github.io/posts/agents/</guid>
       <description>&lt;p&gt;“An agent is anything that can perceive its environment and act upon that environment&amp;hellip;&lt;/p&gt;
 &lt;p&gt;“An agent is anything that can perceive its environment and act upon that environment. Artificial Intelligence: A Modern Approach (1995) defines an agent as anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators.” “The set of actions an AI agent can perform is augmented by the tools it has access to.” Agents
 Jan 7, 2025 • Chip Huyen&lt;/p&gt;</description>

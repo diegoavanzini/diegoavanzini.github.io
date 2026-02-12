@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technical Debt on Diego Avanzini</title>
-    <link>http://localhost:1313/tags/technical-debt/</link>
+    <link>https://diegoavanzini.github.io/tags/technical-debt/</link>
     <description>Recent content in Technical Debt on Diego Avanzini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Feb 2026 10:04:13 +0100</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/technical-debt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diegoavanzini.github.io/tags/technical-debt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>We will fix it later syndrome</title>
-      <link>http://localhost:1313/posts/we_will_fix_it_later_syndrome_with_ai/</link>
+      <title>´´We will fix it later´´ syndrome</title>
+      <link>https://diegoavanzini.github.io/posts/we_will_fix_it_later_syndrome_with_ai/</link>
       <pubDate>Thu, 12 Feb 2026 10:04:13 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/we_will_fix_it_later_syndrome_with_ai/</guid>
+      <guid>https://diegoavanzini.github.io/posts/we_will_fix_it_later_syndrome_with_ai/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m &amp;ldquo;studying&amp;rdquo; for the XPUG event in Bergamo (&lt;a href=&#34;https://www.linkedin.com/events/7418581192460914688/&#34;&gt;https://www.linkedin.com/events/7418581192460914688/&lt;/a&gt;) that&amp;rsquo;s taking place tomorrow.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m reading the first chapter of Uncle Bob&amp;rsquo;s book &amp;ldquo;Clean Architecture&amp;rdquo; and I&amp;rsquo;m thinking.&lt;/p&gt;
 &lt;p&gt;On the one hand, he says things that (at least to me) are obvious&amp;hellip; &amp;ldquo;the only way to go fast is to go well.&amp;rdquo; The only way to do something that won&amp;rsquo;t require too much maintenance and resource expenditure in the future is to do it well from the start&amp;hellip; obvious, but not so simple&amp;hellip; then he says something less obvious (at least in my experience): &amp;ldquo;Developers may think that the answer is to start over from scratch&amp;hellip; Their overconfidence will drive the redesign into the same mess as the original project.&amp;rdquo; Harsh, but fair.&lt;/p&gt;

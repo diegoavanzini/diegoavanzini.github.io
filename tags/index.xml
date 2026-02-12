@@ -2,66 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Diego Avanzini</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://diegoavanzini.github.io/tags/</link>
     <description>Recent content in Tags on Diego Avanzini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Feb 2026 10:04:13 +0100</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diegoavanzini.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ai</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>https://diegoavanzini.github.io/tags/ai/</link>
       <pubDate>Thu, 12 Feb 2026 10:04:13 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>https://diegoavanzini.github.io/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technical Debt</title>
-      <link>http://localhost:1313/tags/technical-debt/</link>
+      <link>https://diegoavanzini.github.io/tags/technical-debt/</link>
       <pubDate>Thu, 12 Feb 2026 10:04:13 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/technical-debt/</guid>
+      <guid>https://diegoavanzini.github.io/tags/technical-debt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Error</title>
-      <link>http://localhost:1313/tags/error/</link>
+      <link>https://diegoavanzini.github.io/tags/error/</link>
       <pubDate>Tue, 27 Jan 2026 07:58:43 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/error/</guid>
+      <guid>https://diegoavanzini.github.io/tags/error/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://localhost:1313/tags/go/</link>
+      <link>https://diegoavanzini.github.io/tags/go/</link>
       <pubDate>Tue, 27 Jan 2026 07:58:43 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/go/</guid>
+      <guid>https://diegoavanzini.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agent</title>
-      <link>http://localhost:1313/tags/agent/</link>
+      <link>https://diegoavanzini.github.io/tags/agent/</link>
       <pubDate>Fri, 14 Nov 2025 11:49:04 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/agent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technical_debt</title>
-      <link>http://localhost:1313/tags/technical_debt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/technical_debt/</guid>
+      <guid>https://diegoavanzini.github.io/tags/agent/</guid>
       <description></description>
     </item>
     
